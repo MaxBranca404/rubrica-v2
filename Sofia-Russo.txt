@@ -1,0 +1,5 @@
+Nome: Sofia
+Cognome: Russo
+Indirizzo: corso Italia 22
+Telefono: 3312345678
+Eta: 35

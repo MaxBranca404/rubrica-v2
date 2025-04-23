@@ -1,0 +1,5 @@
+Nome: Bill
+Cognome: Gates
+Indirizzo: via Redmond 10
+Telefono: 06688989
+Eta: 60

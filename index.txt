@@ -1,0 +1,8 @@
+Steve-Jobs.txt
+Bill-Gates.txt
+Anna-Verdi.txt
+Luca-Bianchi.txt
+Sofia-Russo.txt
+Marco-Esposito.txt
+Max-Branca.txt
+Chiara-Lupo.txt

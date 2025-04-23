@@ -1,0 +1,5 @@
+Nome: Anna
+Cognome: Verdi
+Indirizzo: piazza Garibaldi 7
+Telefono: 3491234567
+Eta: 32

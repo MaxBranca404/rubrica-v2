@@ -1,0 +1,5 @@
+Nome: Steve
+Cognome: Jobs
+Indirizzo: via Cupertino 13
+Telefono: 061234456
+Eta: 56

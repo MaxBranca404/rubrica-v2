@@ -1,0 +1,5 @@
+Nome: Luca
+Cognome: Bianchi
+Indirizzo: viale Europa 15
+Telefono: 3338889900
+Eta: 28

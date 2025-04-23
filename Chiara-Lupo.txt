@@ -1,0 +1,5 @@
+Nome: Chiara
+Cognome: Lupo
+Indirizzo: Milano
+Telefono: 3402940596
+Eta: 31
