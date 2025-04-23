@@ -1,0 +1,7 @@
+Manifest-Version: 2.0
+Main-Class: RubricaMain
+Implementation-Version: 2.0
+Implementation-Title: Rubrica Telefonica
+Specification-Version: 2.0
+Built-By: Max
+Created-By: Max
